@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I’m an analytics professional with a passion for business intelligence and data visualization. For over 7 years, I’ve analyzed data and generated insights for major brands like Ford, Mercedes-Benz, Lego and Google.
+
+My role in analytics projects typically involves gathering business and data requirements, supporting the development of datasets and data models, automating data analysis through code, crafting dynamic data visuals, designing interactive user interfaces, and managing user access to reports and dashboards.
+
+I’ve seen many business leaders face challenges while navigating through the complexity of data. My purpose as a business intelligence professional is to facilitate the understanding of data stories and to empower decision-makers.
+
+In terms of technologies, Power BI has been my main tool of trade for the past few years. It allowed me to handle enterprise-level analytics projects involving large databases (SQL Server, Snowflake), OLAP cubes (SSAS, Azure Analysis Services), and data analysis automation (Power Query, DAX); and it also allowed me to tackle quick prototypes and ad hoc reports based on spreadsheets (Excel) and flat files (CSV).
+
+Regarding education, I started my analytics journey during Law School, working with legal case data analysis and quantitative research. As my data skills grew, I felt the need to understand more about how analytics solutions can impact businesses, so I went through an MBA in Information Technology Management that focused mostly on Business Analytics and Big Data. Recently, I moved to Canada and took the opportunity to dive deep into code (SQL, Python, JS) during a Computer Programming college diploma.
+
 <!--
 **fmeneses-graca/fmeneses-graca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
